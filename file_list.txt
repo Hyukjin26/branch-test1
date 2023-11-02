@@ -1,3 +1,0 @@
-total 1.0K
--rw-r--r-- 1 User 197121 445 Oct 19 11:40 README.md
--rw-r--r-- 1 User 197121   0 Oct 19 11:43 file_list.txt
